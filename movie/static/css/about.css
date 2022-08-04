@@ -1,6 +1,4 @@
 
-
-
 body{
     margin: 0;
     font-family: "Varela Round", sans-serif;
@@ -12,8 +10,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    /*background-color: #383A3F;*/
-    background-color: #ff5733;
+    background-color: #fe9393;
+    
 }
 
 .content{
@@ -72,9 +70,8 @@ svg path{
 }
 
 .screen-name{
-    margin-left: 4px;
-    margin-right: 4px;
     /*color: crimson;*/
-    color: #ff5733;
+    color: #fe9393;
     font-size: 22px;
+    margin: 0px 6px;
 }
