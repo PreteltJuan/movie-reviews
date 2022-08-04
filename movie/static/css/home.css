@@ -44,7 +44,12 @@ body{
 
 .title{
     font-size: 25px;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
+}
+
+.sub-title{
+    font-size: 20px;
+    margin-bottom: 20px;
 }
 
 .icon{
